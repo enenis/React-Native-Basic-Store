@@ -5,7 +5,7 @@ The Images from the app;
 <hr>
 
 <br>
-<b>Upside:</b>
+<b>Up Scroll:</b>
 <br>
 <img src="https://user-images.githubusercontent.com/99321522/215326537-cf01cb8e-bb86-429e-87cc-ec83cc0acbda.png" width="350" height="650" />
 <br>
