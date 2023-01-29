@@ -1,6 +1,6 @@
 # React-Native-Basic-Store
 
-Hello, in this project, I designed a responsive shop with react-native.<br>
+Hello, in this project, I designed a responsive shop with <b>React-Native.</b><br>
 The Images from the app;
 <hr>
 
