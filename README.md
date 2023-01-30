@@ -3,7 +3,7 @@
 Hello, in this project, I designed a responsive shop with <b>React-Native.</b><br>
 The images from the app;
 <hr>
-
+<!-- New Add Favorite Item -->
 <br>
 <b>Up Scroll:</b><br>
 <br>
